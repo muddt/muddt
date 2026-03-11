@@ -95,3 +95,6 @@ Me chamo Isabela, tenho conhecimendo sólido em engenharia de dados. Domino ferr
 --- 
 ### 💡 Projetos Pessoais
 Estou constantemente buscando aprimorar minhas habilidades e aplicá-las em projetos práticos. Aqui irei publicar meus projetos pessoais práticos e com passo-a-passo relacionados a:
+
+- [🏡 Assistente Virtual para Consulta de Empreendimentos com **Python**](https://github.com/muddt/assistente-virtual-empreendimentos)
+
